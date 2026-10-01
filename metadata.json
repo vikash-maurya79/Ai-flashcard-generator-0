@@ -1,0 +1,8 @@
+{
+  "name": "RecallForge: AI Flashcard Generator",
+  "description": "Transform messy lecture notes, PDFs, articles, and text into atomic, active-recall study flashcards compatible with spaced repetition workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
